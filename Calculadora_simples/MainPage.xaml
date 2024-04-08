@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Calculadora_simples.MainPage">
+
+    <StackLayout>
+        <Label Text=" "/>
+        <Entry x:Name="inp1" Keyboard="Numeric" Placeholder="Numero" ReturnType="Next"/>
+        <Entry x:Name="iop" Keyboard="Text" Placeholder="operador" ReturnType="Next"/>
+        <Entry x:Name="inp2" Keyboard="Numeric" Placeholder="Numero" ReturnType="Send"/>
+        <Button Text="Calcular" x:Name="button" Clicked="button_Clicked"/>
+        <Label Text=" " x:Name="respo" HorizontalOptions="CenterAndExpand"/>
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,15 @@
+C:\escola\DDM\xamarin\Calculadora_simples\Calculadora_simples\bin\Debug\netstandard2.0\Calculadora_simples.deps.json
+C:\escola\DDM\xamarin\Calculadora_simples\Calculadora_simples\bin\Debug\netstandard2.0\Calculadora_simples.dll
+C:\escola\DDM\xamarin\Calculadora_simples\Calculadora_simples\bin\Debug\netstandard2.0\ref\Calculadora_simples.dll
+C:\escola\DDM\xamarin\Calculadora_simples\Calculadora_simples\bin\Debug\netstandard2.0\Calculadora_simples.pdb
+C:\escola\DDM\xamarin\Calculadora_simples\Calculadora_simples\obj\Debug\netstandard2.0\Calculadora_simples.csproj.AssemblyReference.cache
+C:\escola\DDM\xamarin\Calculadora_simples\Calculadora_simples\obj\Debug\netstandard2.0\Calculadora_simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\escola\DDM\xamarin\Calculadora_simples\Calculadora_simples\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\escola\DDM\xamarin\Calculadora_simples\Calculadora_simples\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\escola\DDM\xamarin\Calculadora_simples\Calculadora_simples\obj\Debug\netstandard2.0\Calculadora_simples.AssemblyInfoInputs.cache
+C:\escola\DDM\xamarin\Calculadora_simples\Calculadora_simples\obj\Debug\netstandard2.0\Calculadora_simples.AssemblyInfo.cs
+C:\escola\DDM\xamarin\Calculadora_simples\Calculadora_simples\obj\Debug\netstandard2.0\Calculadora_simples.csproj.CoreCompileInputs.cache
+C:\escola\DDM\xamarin\Calculadora_simples\Calculadora_simples\obj\Debug\netstandard2.0\XamlC.stamp
+C:\escola\DDM\xamarin\Calculadora_simples\Calculadora_simples\obj\Debug\netstandard2.0\Calculadora_simples.dll
+C:\escola\DDM\xamarin\Calculadora_simples\Calculadora_simples\obj\Debug\netstandard2.0\refint\Calculadora_simples.dll
+C:\escola\DDM\xamarin\Calculadora_simples\Calculadora_simples\obj\Debug\netstandard2.0\Calculadora_simples.pdb
